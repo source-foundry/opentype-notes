@@ -8,14 +8,11 @@ matrix:
     - python: 3.7
       env: TOX_ENV=py37
 
-before_install:
-    pip install --upgrade fontTools
-    pip install --upgrade jupyter
-
 script: make test
 
 install:
-    - pip install tox
+    - pip install fontTools
+    - pip install jupyter
 
 notifications:
   email: false
