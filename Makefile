@@ -7,7 +7,8 @@ clear-output:
 
 test: notebooks/tables/*.ipynb
 	@for file in $^ ; do \
-		jupyter nbconvert --to=html --ExecutePreprocessor.enabled=True --ExecutePreprocessor.timeout=120 --stdout $${file} ; \
+		jupyter nbconvert --to=html --ExecutePreprocessor.enabled=True --ExecutePreprocessor.timeout=120 --stdout $${file} > /dev/null ; \
+		echo "Successful test of $${file}" ; \
     done
 
 
