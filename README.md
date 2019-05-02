@@ -28,14 +28,18 @@ The project is open to contributions from anyone, and we highly encourage your f
 
 - OpenType Tables
     - [cmap](https://colab.research.google.com/github/source-foundry/opentype-notes/blob/master/notebooks/tables/cmap.ipynb)
+    - [cvt](https://colab.research.google.com/github/source-foundry/opentype-notes/blob/master/notebooks/tables/cvt.ipynb)
+    - [fpgm](https://colab.research.google.com/github/source-foundry/opentype-notes/blob/master/notebooks/tables/fpgm.ipynb)
     - [glyf](https://colab.research.google.com/github/source-foundry/opentype-notes/blob/master/notebooks/tables/glyf.ipynb)
     - [head](https://colab.research.google.com/github/source-foundry/opentype-notes/blob/master/notebooks/tables/head.ipynb)
     - [hhea](https://colab.research.google.com/github/source-foundry/opentype-notes/blob/master/notebooks/tables/hhea.ipynb)
     - [hmtx](https://colab.research.google.com/github/source-foundry/opentype-notes/blob/master/notebooks/tables/hmtx.ipynb)
+    - [loca](https://colab.research.google.com/github/source-foundry/opentype-notes/blob/master/notebooks/tables/loca.ipynb)
     - [maxp](https://colab.research.google.com/github/source-foundry/opentype-notes/blob/master/notebooks/tables/maxp.ipynb)
     - [name](https://colab.research.google.com/github/source-foundry/opentype-notes/blob/master/notebooks/tables/name.ipynb)
     - [OS/2](https://colab.research.google.com/github/source-foundry/opentype-notes/blob/master/notebooks/tables/os2.ipynb)
     - [post](https://colab.research.google.com/github/source-foundry/opentype-notes/blob/master/notebooks/tables/post.ipynb)
+    - [prep](https://colab.research.google.com/github/source-foundry/opentype-notes/blob/master/notebooks/tables/prep.ipynb)
 
 ## Contributing
 
