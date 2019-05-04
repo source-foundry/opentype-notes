@@ -27,6 +27,7 @@ The project is open to contributions from anyone, and we highly encourage your f
 ## Notebooks
 
 - OpenType Tables
+    - [CFF](https://colab.research.google.com/github/source-foundry/opentype-notes/blob/master/notebooks/tables/cff.ipynb)
     - [cmap](https://colab.research.google.com/github/source-foundry/opentype-notes/blob/master/notebooks/tables/cmap.ipynb)
     - [cvt](https://colab.research.google.com/github/source-foundry/opentype-notes/blob/master/notebooks/tables/cvt.ipynb)
     - [fpgm](https://colab.research.google.com/github/source-foundry/opentype-notes/blob/master/notebooks/tables/fpgm.ipynb)
